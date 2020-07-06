@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CosmosDBHandsOn": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "local"
+      }
+    }
+  }
+}
